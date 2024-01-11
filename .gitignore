@@ -1,0 +1,5 @@
+build/**
+src/yy/**
+test/**/*.o
+test/**/*.hex
+test/**/*.txt

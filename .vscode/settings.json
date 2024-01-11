@@ -1,0 +1,24 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stddef.h": "c",
+        "expression.h": "c",
+        "memory_safety.h": "c",
+        "instruction.h": "c",
+        "lines.h": "c",
+        "y.tab.h": "c",
+        "code_gen.h": "c",
+        "directive.h": "c",
+        "string.h": "c",
+        "logger.h": "c",
+        "assembler.h": "c",
+        "vector.h": "c",
+        "linker.h": "c",
+        "global_def.h": "c",
+        "logger_asm.h": "c",
+        "architecture.h": "c",
+        "emulator.h": "c",
+        "section.h": "c",
+        "stdio.h": "c"
+    }
+}
